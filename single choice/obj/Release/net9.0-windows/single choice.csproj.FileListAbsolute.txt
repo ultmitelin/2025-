@@ -1,0 +1,17 @@
+C:\Users\86153\source\repos\single choice\single choice\bin\Release\net9.0-windows\single choice.exe
+C:\Users\86153\source\repos\single choice\single choice\bin\Release\net9.0-windows\single choice.deps.json
+C:\Users\86153\source\repos\single choice\single choice\bin\Release\net9.0-windows\single choice.runtimeconfig.json
+C:\Users\86153\source\repos\single choice\single choice\bin\Release\net9.0-windows\single choice.dll
+C:\Users\86153\source\repos\single choice\single choice\bin\Release\net9.0-windows\single choice.pdb
+C:\Users\86153\source\repos\single choice\single choice\obj\Release\net9.0-windows\single_choice.Form1.resources
+C:\Users\86153\source\repos\single choice\single choice\obj\Release\net9.0-windows\single choice.csproj.GenerateResource.cache
+C:\Users\86153\source\repos\single choice\single choice\obj\Release\net9.0-windows\single choice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86153\source\repos\single choice\single choice\obj\Release\net9.0-windows\single choice.AssemblyInfoInputs.cache
+C:\Users\86153\source\repos\single choice\single choice\obj\Release\net9.0-windows\single choice.AssemblyInfo.cs
+C:\Users\86153\source\repos\single choice\single choice\obj\Release\net9.0-windows\single choice.csproj.CoreCompileInputs.cache
+C:\Users\86153\source\repos\single choice\single choice\obj\Release\net9.0-windows\single choice.sourcelink.json
+C:\Users\86153\source\repos\single choice\single choice\obj\Release\net9.0-windows\single choice.dll
+C:\Users\86153\source\repos\single choice\single choice\obj\Release\net9.0-windows\refint\single choice.dll
+C:\Users\86153\source\repos\single choice\single choice\obj\Release\net9.0-windows\single choice.pdb
+C:\Users\86153\source\repos\single choice\single choice\obj\Release\net9.0-windows\single choice.genruntimeconfig.cache
+C:\Users\86153\source\repos\single choice\single choice\obj\Release\net9.0-windows\ref\single choice.dll
