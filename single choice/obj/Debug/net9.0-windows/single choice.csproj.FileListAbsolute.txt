@@ -19,3 +19,4 @@ C:\Users\86153\source\repos\single choice\single choice\obj\Debug\net9.0-windows
 C:\Users\86153\source\repos\single choice\single choice\obj\Debug\net9.0-windows\single_choice.Properties.Resources.resources
 C:\Users\86153\source\repos\single choice\single choice\bin\Debug\net9.0-windows\Form2.resx
 C:\Users\86153\source\repos\single choice\single choice\obj\Debug\net9.0-windows\single_choice.FullScreenImageForm.resources
+C:\Users\86153\source\repos\single choice\single choice\obj\Debug\net9.0-windows\single_choice.Form3.resources
